@@ -1,0 +1,44 @@
+{
+    "QMainWindow": {
+        "background-color": "#2e2e2e"
+    },
+    "QMenuBar": {
+        "background-color": "#333",
+        "color": "#ffffff"
+    },
+    "QMenuBar::item": {
+        "background-color": "transparent"
+    },
+    "QMenuBar::item:selected": {
+        "background-color": "#555"
+    },
+    "QMenuBar::item:pressed": {
+        "background-color": "#777"
+    },
+    "QMenu": {
+        "background-color": "#333",
+        "color": "#ffffff"
+    },
+    "QMenu::item": {
+        "background-color": "transparent"
+    },
+    "QMenu::item:selected": {
+        "background-color": "#555"
+    },
+    "QMenu::item:pressed": {
+        "background-color": "#777"
+    },
+    "QLabel": {
+        "color": "#ffffff"
+    },
+    "QPushButton": {
+        "background-color": "#4caf50",
+        "color": "#ffffff",
+        "border-radius": "5px",
+        "padding": "10px",
+        "transition": "background-color 0.3s ease"
+    },
+    "QPushButton:hover": {
+        "background-color": "#45a049"
+    }
+}

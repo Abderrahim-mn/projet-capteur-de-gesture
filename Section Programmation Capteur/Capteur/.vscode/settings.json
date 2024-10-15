@@ -1,0 +1,13 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "gesture.h": "c",
+        "i2c.h": "c",
+        "uart.h": "c",
+        "rotary.h": "c",
+        "io.h": "c",
+        "sunlight.h": "c",
+        "accelometre.h": "c",
+        "lcd_128x32.h": "c"
+    }
+}
